@@ -6,7 +6,7 @@ App using the OpenWeatherMap API for 5 day weather forecast. Developed for perso
 ####Installation#####
 
 ```
-	> git clone https://github.com/tirkits/weather.git
+	> git clone https://github.com/fanosA/weather.git
 	> cd weather
 	> npm install
 	> npm start
